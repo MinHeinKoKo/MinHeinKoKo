@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MinHeinKoKo](https://github.com/MinHeinKoKo)
 
-- 💬 Ask me about **React JS, Next JS and PHP Laravel**
+- 💬 Ask me about **React JS, Next JS, Nest JS and PHP Laravel**
 
 - 📫 How to reach me **kokominhein96@gmail.com**
 
