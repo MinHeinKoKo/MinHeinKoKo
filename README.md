@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Min Hein Ko Ko</h1>
 <h3 align="center">A passionate full stack developer from Myanmar.</h3>
 
-- 🔭 I’m currently working on [Hospital management](https://github.com/SpringArts/hospital-be)
+- 🔭 I’m currently working on [E-Learning]
 
 - 🌱 I’m currently learning principle and design pattern. **Laravel, React JS and Next JS**
 
